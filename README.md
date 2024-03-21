@@ -5,7 +5,7 @@ Operating systems Lab exercise
 
 
 # AIM:
-To write C Program that uses Linux Process API - fork(), wait(), exec()
+To write C Program that uses Linux Process API - fork(), wait(), exec().
 
 # DESIGN STEPS:
 
